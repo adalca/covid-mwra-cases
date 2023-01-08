@@ -1064,3 +1064,10 @@ date,geoid,county,state,cases,cases_avg,cases_avg_per_100k,deaths,deaths_avg,dea
 12/29/2022,USA-25025,Suffolk,Massachusetts,896,128,15.92,7,1.03,0.13
 12/30/2022,USA-25025,Suffolk,Massachusetts,0,128,15.92,0,1.03,0.13
 12/31/2022,USA-25025,Suffolk,Massachusetts,0,128,15.92,0,1.03,0.13
+1/1/2023,USA-25025,Suffolk,Massachusetts,0,128,15.92,0,1.03,0.13
+1/2/2023,USA-25025,Suffolk,Massachusetts,0,128,15.92,0,1.03,0.13
+1/3/2023,USA-25025,Suffolk,Massachusetts,0,128,15.92,0,1.03,0.13
+1/4/2023,USA-25025,Suffolk,Massachusetts,0,128,15.92,0,1.03,0.13
+1/5/2023,USA-25025,Suffolk,Massachusetts,1115,159.29,19.81,7,1.09,0.14
+1/6/2023,USA-25025,Suffolk,Massachusetts,0,159.29,19.81,0,1.09,0.14
+1/7/2023,USA-25025,Suffolk,Massachusetts,0,159.29,19.81,0,1.09,0.14
